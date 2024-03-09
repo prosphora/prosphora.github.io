@@ -7,7 +7,7 @@ enableEmoji = true
 defaultContentLanguage = 'en'
 [languages]
     [languages.en]
-        title = "Lotus Docs Example Site"
+        title = "Prosphora help"
         languageName = "English"
         weight = 10
 #    [languages.fr]
@@ -62,24 +62,24 @@ defaultContentLanguage = 'en'
  mono_font       = "Fira Code" # Default is System font
 
     [params.footer]
-        copyright = "© :YEAR: Lotus Labs. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
-        # version = true # includes git commit info
+        copyright = "© :YEAR: Prosphora inc."
+        version = true # includes git commit info
 
     [params.social]
-        github = ""        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
-        twitter = ""       # YOUR_TWITTER_ID
+        #github = ""        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
+        #twitter = ""       # YOUR_TWITTER_ID
         # instagram = "colinwilson"     # YOUR_INSTAGRAM_ID
         # rss = true                    # show rss icon with link
 
 
     [params.docs] # Parameters for the /docs 'template'
-        title           = "Lotus Docs Example Site"           # default html title for documentation pages/sections
+        title           = "Prosphora help"           # default html title for documentation pages/sections
 
         # pathName        = "docs"                            # path name for documentation site | default "docs"
 
         # themeColor      = "cyan"                            # (optional) - Set theme accent colour. Options include: blue (default), green, red, yellow, emerald, cardinal, magenta, cyan
 
-        darkMode        = true                                # enable dark mode option? default false
+        darkMode        = false                                # enable dark mode option? default false
 
         prism           = true                                # enable syntax highlighting via Prism
 
@@ -116,7 +116,7 @@ defaultContentLanguage = 'en'
         # extLinkNewTab   = false                             # Open external links in a new Tab? default true
         # logoLinkURL = ""
 
-    [params.flexsearch] # Parameters for FlexSearch
+[params.flexsearch] # Parameters for FlexSearch
         enabled             = true
         # tokenize            = "full"
         # optimize            = true
@@ -138,8 +138,8 @@ defaultContentLanguage = 'en'
 #     identifier = "showcase"
 #     weight = 20
 
- [[menu.primary]]
-     name  = "Community"
-     url = "https://www.svetek.com"
-     identifier = "community"
-     weight = 30
+# [[menu.primary]]
+#     name  = "Community"
+#     url = "https://www.svetek.com"
+#     identifier = "community"
+#     weight = 30
