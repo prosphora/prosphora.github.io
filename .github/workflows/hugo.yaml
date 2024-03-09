@@ -58,8 +58,7 @@ jobs:
         HUGO_ENVIRONMENT: production
         HUGO_ENV: production
       run: |
-        ls 
-        theme/        
+        ls themes/        
         hugo \
         --gc \
         --minify \
