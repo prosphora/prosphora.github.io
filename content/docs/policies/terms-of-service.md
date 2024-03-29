@@ -22,11 +22,11 @@ Welcome to Prosphora. It's important for you to understand our terms, policies, 
 
 #### Accepting these Terms
 
-These Terms of Service (“Terms”), along with our rules, policies, and referenced documents, form a legally binding contract between you and Prosphora, Inc. (“Prosphora”). This contract outlines your rights and responsibilities when you use Prosphora’s website, mobile application (“App”), and services (collectively, the “Service”). To access most features, you’ll need to register for an account (“Account”). Please read these Terms carefully.
+These Terms of Service (“Terms”), along with our rules, policies, and referenced documents, form a legally binding contract between you and Prosphora, Inc. (“Prosphora”). This contract outlines your rights and responsibilities when you use Prosphora’s website and services (collectively, the “Service”). To access most features, you’ll need to register for an account (“Account”). Please read these Terms carefully.
 
 **BY USING OUR SERVICE, YOU AGREE TO THESE TERMS, FORMING A BINDING CONTRACT.**
 
-The Help Center, accessible from our website and App, includes our Prohibited Conduct, Prohibited Items policies, and frequently asked questions (“FAQ”).
+The Help Center, accessible from our website, includes our Prohibited Conduct, Prohibited Items policies, and frequently asked questions (“FAQ”).
 
 We may update these Terms at any time on our website. Changes are effective upon posting. If changes reduce your rights or increase your responsibilities, we'll notify you.
 
@@ -61,7 +61,7 @@ You can terminate your Account at any time via Account Settings. Some informatio
 
 #### License and Restrictions
 
-We grant you a personal, limited, non-transferable license to use our App and Website. You may not modify, distribute, or create derivative works from our Service.
+We grant you a personal, limited, non-transferable license to use our Website. You may not modify, distribute, or create derivative works from our Service.
 
 #### Third-Party Services
 
