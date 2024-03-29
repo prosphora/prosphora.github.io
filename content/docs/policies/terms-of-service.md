@@ -1,6 +1,6 @@
 ---
 weight: 999
-title: "Prosphora Terms and Conditions"
+title: "Prosphora Terms of Service"
 description: ""
 icon: "article"
 date: "2024-03-08T18:27:22+04:00"
