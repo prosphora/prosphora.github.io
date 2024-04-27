@@ -61,6 +61,9 @@ defaultContentLanguage = 'en'
  secondary_font  = "Inter"     # Default is System font
  mono_font       = "Fira Code" # Default is System font
 
+    [params.logo]
+        path = "/hello.png"
+
     [params.footer]
         copyright = "© :YEAR: Prosphora inc."
         version = true # includes git commit info
@@ -79,7 +82,7 @@ defaultContentLanguage = 'en'
 
         # themeColor      = "cyan"                            # (optional) - Set theme accent colour. Options include: blue (default), green, red, yellow, emerald, cardinal, magenta, cyan
 
-        darkMode        = false                                # enable dark mode option? default false
+        darkMode        = true                                # enable dark mode option? default false
 
         prism           = true                                # enable syntax highlighting via Prism
 
