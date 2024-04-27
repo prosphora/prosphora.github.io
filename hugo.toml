@@ -61,8 +61,8 @@ defaultContentLanguage = 'en'
  secondary_font  = "Inter"     # Default is System font
  mono_font       = "Fira Code" # Default is System font
 
-    [params.logo]
-        path = "/prosphora-logo2.svg"
+#    [params.logo]
+#        path = "/prosphora-logo2.svg"
 
     [params.footer]
         copyright = "© :YEAR: Prosphora inc."
