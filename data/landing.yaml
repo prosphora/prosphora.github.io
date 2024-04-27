@@ -51,45 +51,45 @@ featureGrid:
   weight: 20
   template: feature grid
 
-  title: Why choose Lotus Docs?
-  subtitle: Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the default configuration you can deploy and publish your documentation site in a matter of minutes. Check out some core features below.
+  title: Why choose Prosphora?
+  subtitle: Welcome to Prosphora, where your unused items can transform into powerful acts of kindness. Our innovative online marketplace empowers you to sell personal items, with every transaction directly supporting a nonprofit of your choice. Whether in Seattle, Portland or anywhere else in the U.S., Prosphora makes it easy to contribute to the causes close to your heart while decluttering your environment. By joining us, you become part of a movement that promotes generosity through action, supports community growth, and fosters environmental sustainability. Every sale on Prosphora is a step towards a better world. Start donating, start helping, start today with Prosphora!
 
-  items:
-    - title: Fast
-      icon: speed
-      description: 4 x 100's score on Google Lighthouse by default. Lotus Docs removes unused CSS, prefetches asset links, and lazy loads content images.
-
-    - title: SEO Friendly
-      icon: trending_up
-      description: Data is automatically structured to be SEO friendly. Includes Meta tags, Opengraph, and Twitter cards. Choose the settings that best suit you.
-
-    - title: Secure by default
-      icon: lock
-      description: Lotus Docs' default configuration scores A+ on Mozilla Observatory. You can update the default Security Headers to suit your requirements.
-
-    - title: Optional Features
-      icon: settings
-      description: Many Lotus Docs features are configurable via optional parameters. Require DocSearch for your site? Then enable it via a single setting.
-
-    - title: Deploy to Vercel
-      icon: change_history
-      description: Deploy to Vercel in seconds. Vercel Functions, Vercel Redirects/Rewrites, and Vercel Headers are all configurable for an enriched experience.
-
-    - title: Dark Mode
-      icon: dark_mode
-      description: "Prefer not to be blasted by the sun while reading? Switch to a low-light UI with the click of a button. Modify colour variables to match your branding."
-
-    - title: Search by DocSearch
-      icon: search
-      description: Search your docs with DocSearch. A powerful, efficient and accessible search solution built on Algolia Crawler & Autocomplete.
-
-    - title: Multilingual Support
-      icon: translate
-      description: Lotus Docs supports Hugo's Multilingual Mode. Create documentation in multiple languages side by side with i18n support.
-
-    - title: Bootstrap v5
-      icon: palette
-      description: Built on Bootstrap 5, Lotus Docs allows for a familiar, flexible, and intuitive developer experience. Easily customise your site via SCSS variables and files.
+#  items:
+#    - title: Fast
+#      icon: speed
+#      description: 4 x 100's score on Google Lighthouse by default. Lotus Docs removes unused CSS, prefetches asset links, and lazy loads content images.
+#
+#    - title: SEO Friendly
+#      icon: trending_up
+#      description: Data is automatically structured to be SEO friendly. Includes Meta tags, Opengraph, and Twitter cards. Choose the settings that best suit you.
+#
+#    - title: Secure by default
+#      icon: lock
+#      description: Lotus Docs' default configuration scores A+ on Mozilla Observatory. You can update the default Security Headers to suit your requirements.
+#
+#    - title: Optional Features
+#      icon: settings
+#      description: Many Lotus Docs features are configurable via optional parameters. Require DocSearch for your site? Then enable it via a single setting.
+#
+#    - title: Deploy to Vercel
+#      icon: change_history
+#      description: Deploy to Vercel in seconds. Vercel Functions, Vercel Redirects/Rewrites, and Vercel Headers are all configurable for an enriched experience.
+#
+#    - title: Dark Mode
+#      icon: dark_mode
+#      description: "Prefer not to be blasted by the sun while reading? Switch to a low-light UI with the click of a button. Modify colour variables to match your branding."
+#
+#    - title: Search by DocSearch
+#      icon: search
+#      description: Search your docs with DocSearch. A powerful, efficient and accessible search solution built on Algolia Crawler & Autocomplete.
+#
+#    - title: Multilingual Support
+#      icon: translate
+#      description: Lotus Docs supports Hugo's Multilingual Mode. Create documentation in multiple languages side by side with i18n support.
+#
+#    - title: Bootstrap v5
+#      icon: palette
+#      description: Built on Bootstrap 5, Lotus Docs allows for a familiar, flexible, and intuitive developer experience. Easily customise your site via SCSS variables and files.
 
 # Image compare
 #imageCompare:
